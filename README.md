@@ -2,11 +2,9 @@
 <h3 align="center">AI/ML Enthusiast • Lifelong Learner</h3>
 
 ---
-
-## 📊 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&theme=react-dark&area=true&hide_border=true" />
-</p>
+# 🚀 About Me
+- 🤖 Ask me about **Agentic AI, Machine Learning**
+- 📧 Email: **rubayetkabirz@gmail.com**
 
 ---
 
@@ -105,11 +103,7 @@
 
 ---
 
-# 🚀 About Me
-- 🤖 Ask me about **Agentic AI, Machine Learning**
-- 📧 Email: **rubayetkabirz@gmail.com**
 
----
 
 # 🧰 Languages
 <p>
@@ -131,6 +125,13 @@
   <!-- <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> -->
+</p>
+
+---
+
+## 📊 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
