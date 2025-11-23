@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer;Agentic+AI+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Agentic+AI+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moonmehedi&label=Profile%20views&color=0e75b6&style=flat" alt="moonmehedi" />
+  <img src="https://komarev.com/ghpvc/?username=rubayetkabirzisan&label=Profile%20views&color=0e75b6&style=flat" alt="moonmehedi" />
   <img src="https://img.shields.io/github/followers/rubayetkabirzisan?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
