@@ -81,20 +81,20 @@
 
 ## 📊 GitHub Stats
 
-## Overall Performance  
+### Overall Performance
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rubayetkabirzisan&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayetkabirzisan&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="170" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rubayetkabirzisan&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayetkabirzisan&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
-## Streak  
+### 🔥 Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rubayetkabirzisan&theme=midnight-purple&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rubayetkabirzisan&theme=midnight-purple&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rubayetkabirzisan&theme=onestar&no-frame=true&margin-w=5" />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=rubayetkabirzisan&theme=onestar&no-frame=true&margin-w=5"/>
 </p>
 
 ## 📊 Activity Graph
