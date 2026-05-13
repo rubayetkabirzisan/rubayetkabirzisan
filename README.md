@@ -11,9 +11,9 @@
 
 ## 👋 About Me
 
-Final-year CS student at **Military Institute of Science and Technology (MIST)**. I recently completed a remote internship at **Aurify** (US-based EdTech startup, Chicago) as a **Software Engineering Intern**, focused on SDET, test automation, and Playwright-based QA.
+Finalnyear CS student at **Military Institute of Science and Technology (MIST)**. I recently completed a remote internship at **Aurify** (US-based EdTech startup, Chicago) as a **Software Engineering Intern**, focused on SDET, test automation, and Playwright based QA.
 
-My undergraduate thesis focuses on **Bengali NLP using fine-tuned T5 Transformer models**. I'm also a co-author on published research in computer science. Outside academics, I enjoy building AI-powered tools and have solved **300+ problems** on LeetCode, Codeforces, and CodeChef.
+My undergraduate thesis focuses on **Bengali NLP using fine tuned T5 Transformer models**. I'm also a co-author on published research in computer science. Outside academics, I enjoy building AI powered tools and have solved **300+ problems** on LeetCode, Codeforces, and CodeChef.
 
 Currently exploring: **Agentic AI systems, LLM-powered automation, and AI development.**
 
@@ -113,7 +113,7 @@ Currently exploring: **Agentic AI systems, LLM-powered automation, and AI develo
 
 ## 🎯 Currently
 
-- 🧪 Thesis: Bengali NLP with fine-tuned T5 Transformer models
+- 🧪 Thesis: Bengali NLP with fine tuned T5 Transformer models
 - 🤖 Building AI automation tools and agentic systems
 - 💼 Open to **SQA, Full Stack, and AI/Automation** roles
 - 🧩 Solving problems on LeetCode · Codeforces · CodeChef (300+)
