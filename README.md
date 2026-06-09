@@ -113,7 +113,7 @@ Currently exploring: **Agentic AI systems, LLM-powered automation, and AI develo
 
 ## 🎯 Currently
 
-- 🧪 Thesis: Bangla To Chakma Translation Using Bangla T5
+- 🧪 Thesis: Identification and Translation of Transliterated Chakma Text into Bangla 
 - 🤖 Building AI automation tools and agentic systems
 - 💼 Open to **SQA, Full Stack, and AI/Automation** roles
 - 🧩 Solving problems on LeetCode · Codeforces · CodeChef (300+)
