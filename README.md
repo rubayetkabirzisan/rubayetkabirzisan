@@ -16,6 +16,7 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 My undergraduate thesis focuses on **Identification and Translation of Transliterated Chakma Text into Bangla**. I'm also a co-author on published research in computer science. Outside academics, I enjoy building AI powered tools and have solved **300+ problems** on LeetCode, Codeforces, and CodeChef.
 
 Currently exploring agentic **AI systems, LLM-powered automation, and AI development.** 
+
 Open to SDET / QA / SWE roles.
 
 ---
