@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Breaking software on purpose, so it doesn't break in production. **MIST** CS grad, **ex-Aurify SWE intern** (Playwright, test automation). 
+Breaking software on purpose, so it doesn't break in production. **MIST CS** grad, **ex-Aurify SWE intern** (Playwright, test automation). 
 
 My undergraduate thesis focuses on **Identification and Translation of Transliterated Chakma Text into Bangla**. I'm also a co-author on published research in computer science. Outside academics, I enjoy building AI powered tools and have solved **300+ problems** on LeetCode, Codeforces, and CodeChef.
 
