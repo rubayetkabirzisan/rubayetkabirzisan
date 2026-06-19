@@ -17,7 +17,7 @@ My undergraduate thesis focuses on **Identification and Translation of Translite
 
 Currently exploring agentic **AI systems, LLM-powered automation, and AI development.** 
 
-Open to SDET / QA / SWE roles.
+Open to **SDET / QA / SWE** roles.
 
 ---
 
