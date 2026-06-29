@@ -97,10 +97,6 @@ Open to **SQA, Full Stack, and AI/Automation** roles.
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rubayetkabirzisan&theme=midnight-purple&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&theme=react-dark&area=true&hide_border=true" />
-</p>
-
 ---
 
 ## 📊 Activity Graph
