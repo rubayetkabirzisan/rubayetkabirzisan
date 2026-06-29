@@ -89,7 +89,7 @@ Open to **SQA, Full Stack, and AI/Automation** roles.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=rubayetkabirzisan&show_icons=true&theme=midnight-purple&hide_border=true" />
+  <img height="170" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubayetkabirzisan&theme=midnight_purple" />
   <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayetkabirzisan&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
@@ -98,7 +98,7 @@ Open to **SQA, Full Stack, and AI/Automation** roles.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubayetkabirzisan&theme=midnight_purple" />
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubayetkabirzisan&theme=midnight_purple" />
 </p>
 
 ---
