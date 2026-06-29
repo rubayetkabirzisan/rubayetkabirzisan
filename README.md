@@ -16,7 +16,6 @@
 Breaking software on purpose, so it doesn't break in production. **MIST CS** grad and **ex-Aurify SWE intern** with hands-on experience in Playwright and test automation.
 
 - 🎓 Thesis defended: **Identification and Translation of Transliterated Chakma Text into Bangla**
-- 📄 IEEE published author — co-author on 2 peer-reviewed papers in computer science
 - 🤖 Building agentic AI systems and LLM-powered automation tools
 - 🧩 Solved **300+ problems** on LeetCode · Codeforces · CodeChef
 - 💼 Open to **SQA, Full Stack, and AI/Automation** roles
