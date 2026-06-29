@@ -23,21 +23,6 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 
 ---
 
-## 🔬 Research & Publications
-
-<div align="center">
-
-| | Title | Venue | Link |
-|---|---|---|---|
-| 📄 | **Identification and Translation of Transliterated Chakma Text into Bangla** | IEEE · 2025 | [![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11526264) |
-| 📄 | **Co-authored Research Paper** | IEEE · 2025 | [![IEEE](https://img.shields.io/badge/IEEE-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11172231) |
-
-</div>
-
-> 🏷️ Research areas: **Bengali NLP · Low-resource Language Processing · Transliteration · Machine Translation**
-
----
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
