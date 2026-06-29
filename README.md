@@ -13,12 +13,12 @@
 
 ## 👋 About Me
 
-Breaking software on purpose, so it doesn't break in production. **MIST CS** grad and **ex-Aurify SDET intern** with hands-on experience in Playwright and test automation.
+Breaking software on purpose, so it doesn't break in production. **MIST CS** grad and **ex-Aurify SWE intern** with hands-on experience in Playwright and test automation.
 
 - 🎓 Thesis defended: **Identification and Translation of Transliterated Chakma Text into Bangla**
 - 📄 IEEE published author — co-author on 2 peer-reviewed papers in computer science
 - 🤖 Building agentic AI systems and LLM-powered automation tools
-- 🧩 Solved **300+ problems** on [LeetCode](https://leetcode.com/rubayetkabirzisan) · [Codeforces](https://codeforces.com/profile/rubayetkabirzisan) · [CodeChef](https://www.codechef.com/users/rubayetkabirzisan)
+- 🧩 Solved **300+ problems** on LeetCode · Codeforces · CodeChef
 - 💼 Open to **SQA, Full Stack, and AI/Automation** roles
 
 ---
@@ -54,6 +54,14 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 </p>
 
 <p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rubayetkabirzisan&theme=midnight-purple&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/snake.svg" alt="Contribution Snake" />
 </p>
 
@@ -61,9 +69,9 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 
 ## 🎯 Currently
 
-- 📱 Submitting **PetPal** to ICCIT 2026 — a React Native pet adoption app with ML-based bidirectional matching (deadline: July 31)
+- 🤖 Building AI automation tools and agentic systems
 - 📝 Preparing thesis research for journal submission
-- 🧩 Grinding [LeetCode](https://leetcode.com/rubayetkabirzisan) · [Codeforces](https://codeforces.com/profile/rubayetkabirzisan) · [CodeChef](https://www.codechef.com/users/rubayetkabirzisan) — 300+ solved
+- 🧩 Grinding LeetCode · Codeforces · CodeChef (300+ solved)
 
 ---
 
@@ -81,12 +89,6 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
   </a>
   <a href="https://rubaetkabirzishan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/rubayetkabirzisan">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/rubayetkabirzisan">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </div>
 
