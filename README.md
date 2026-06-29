@@ -98,7 +98,7 @@ Open to **SQA, Full Stack, and AI/Automation** roles.
 </p>
 
 <p align="center">
-  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubayetkabirzisan&theme=midnight_purple" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
