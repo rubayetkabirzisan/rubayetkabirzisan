@@ -98,7 +98,7 @@ Open to **SQA, Full Stack, and AI/Automation** roles.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rubayetkabirzisan&theme=midnight-purple&hide_border=true&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubayetkabirzisan&theme=midnight_purple" />
 </p>
 
 ---
