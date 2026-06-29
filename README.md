@@ -68,7 +68,7 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 
 ## 🎯 Currently
 
-- 🧪 Finishing thesis: Identification and Translation of Transliterated Chakma Text into Bangla
+- 🧪 Thesis defended: **Identification and Translation of Transliterated Chakma Text into Bangla** — preparing for journal submission
 - 🤖 Building AI automation tools and agentic systems
 - 🧩 Grinding LeetCode · Codeforces · CodeChef (300+ solved)
 
