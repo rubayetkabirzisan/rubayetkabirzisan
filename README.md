@@ -1,9 +1,11 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=140&section=header&text=Rubaet%20Kabir%20Zishan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=CS%20Graduate%20%7C%20Full%20Stack%20%7C%20SQA%20%7C%20AI%20Automation&descSize=16&descAlignY=62&descColor=d4bbff" />
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+%40+MIST%2C+Dhaka;Full+Stack+%7C+SQA+%7C+AI+Automation;Bengali+NLP+Researcher+%7C+Agentic+AI+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9B59F5&center=true&vCenter=true&width=600&lines=Computer+Science+Graduate+%40+MIST%2C+Dhaka;Full+Stack+%7C+SQA+%7C+AI+Automation;Bengali+NLP+Researcher+%7C+Agentic+AI+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rubayetkabirzisan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=rubayetkabirzisan&label=Profile%20views&color=6e40c9&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/rubayetkabirzisan?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
@@ -11,82 +13,43 @@
 
 ## 👋 About Me
 
-Breaking software on purpose, so it doesn't break in production. **MIST CS** grad, **ex-Aurify SWE intern** (Playwright, test automation). My undergraduate thesis focuses on **Identification and Translation of Transliterated Chakma Text into Bangla**. I'm also a co-author on published research in computer science. Outside academics, I enjoy building AI powered tools and have solved **300+ problems** on LeetCode, Codeforces, and CodeChef.
+Breaking software on purpose, so it doesn't break in production. **MIST CS** grad and **ex-Aurify SWE intern** with hands-on experience in Playwright and test automation.
 
-Currently exploring agentic **AI systems, LLM-powered automation, and AI development.** 
-
-Open to **SQA, Full Stack, and AI/Automation** roles.
+- 🎓 Undergraduate thesis: **Identification and Translation of Transliterated Chakma Text into Bangla**
+- 📄 Co-author on published research in computer science
+- 🤖 Building agentic AI systems and LLM-powered automation tools
+- 🧩 Solved **300+ problems** on LeetCode · Codeforces · CodeChef
+- 💼 Open to **SQA, Full Stack, and AI/Automation** roles
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,react,nextjs,fastapi,django,nodejs,express&perline=10&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,postgres,mongodb,git,linux,vscode,postman,jupyter,github,bash&perline=10&theme=dark" />
+</div>
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+<br/>
 
-### Frontend & Backend
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
+<div align="center">
 
-### AI / ML / LLM
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1E88E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-F9D342?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stable--Baselines3-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_AI-E65100?style=for-the-badge" />
-</p>
-
-### Data & ML Libraries
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### QA & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-### Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</p>
+<!-- AI / LLM badges that skillicons doesn't cover -->
+<img src="https://img.shields.io/badge/LangChain-1E88E5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-F9D342?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Agentic_AI-E65100?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img height="170" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubayetkabirzisan&theme=midnight_purple" />
@@ -97,10 +60,6 @@ Open to **SQA, Full Stack, and AI/Automation** roles.
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=rubayetkabirzisan&theme=midnight-purple&hide_border=true"/>
 </p>
 
----
-
-## 📊 Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&theme=react-dark&area=true&hide_border=true" />
 </p>
@@ -109,16 +68,15 @@ Open to **SQA, Full Stack, and AI/Automation** roles.
 
 ## 🎯 Currently
 
-- 🧪 Thesis: Identification and Translation of Transliterated Chakma Text into Bangla 
+- 🧪 Finishing thesis: Identification and Translation of Transliterated Chakma Text into Bangla
 - 🤖 Building AI automation tools and agentic systems
-- 💼 Open to **SQA, Full Stack, and AI/Automation** roles
-- 🧩 Solving problems on LeetCode · Codeforces · CodeChef (300+)
+- 🧩 Grinding LeetCode · Codeforces · CodeChef (300+ solved)
 
 ---
 
 ## 🌐 Connect with Me
 
-<p>
+<div align="center">
   <a href="https://www.linkedin.com/in/rubaet-kabir-zishan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -131,4 +89,8 @@ Open to **SQA, Full Stack, and AI/Automation** roles.
   <a href="https://rubaetkabirzishan.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" />
