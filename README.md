@@ -50,7 +50,7 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 
 <p align="center">
   <img height="170" alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubayetkabirzisan&theme=midnight_purple" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayetkabirzisan&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubayetkabirzisan&layout=compact&theme=midnight-purple&hide_border=true&v=1" />
 </p>
 
 <p align="center">
