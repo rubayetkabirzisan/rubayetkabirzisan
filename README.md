@@ -63,7 +63,7 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hemel2002&theme=tokyonight&border_radius=10" alt="rubayetkabirzisan's GitHub Streak" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=rubayetkabirzisan&theme=tokyonight&border_radius=10" alt="rubayetkabirzisan's GitHub Streak" width="97%" />
 </p>
 
 <p align="center">
