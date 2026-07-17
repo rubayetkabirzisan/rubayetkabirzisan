@@ -48,15 +48,22 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 
 ## 📈 GitHub Activity
 
-<div align="center">
-  <img width="410" src="https://streak-stats.demolab.com/?user=rubayetkabirzisan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=rubayetkabirzisan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rubayetkabirzisan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubayetkabirzisan&theme=tokyonight" alt="GitHub Profile Summary" width="97%" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubayetkabirzisan&theme=tokyonight" alt="GitHub Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubayetkabirzisan&theme=tokyonight" alt="Languages" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubayetkabirzisan&theme=tokyonight" alt="Commit Languages" width="32%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&bg_color=1a1b26&color=a855f7&line=a855f7&point=ff9e64&area=true&hide_border=true&border_radius=10" alt="hemel2002's contribution graph" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hemel2002&theme=tokyonight&border_radius=10" alt="rubayetkabirzisan's GitHub Streak" width="97%" />
 </p>
 
 <p align="center">
