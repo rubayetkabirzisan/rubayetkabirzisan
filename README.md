@@ -48,20 +48,12 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubayetkabirzisan&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubayetkabirzisan&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubayetkabirzisan&theme=tokyonight" alt="Most Commits Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetkabirzisan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=tokyonight&ext=activity" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&bg_color=1a1b26&color=a855f7&line=a855f7&point=ff9e64&area=true&hide_border=true&border_radius=10" alt="rubayetkabirzisan's contribution graph" width="100%" />
-</p>
+<div align=center>
+  <img width=410 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rubayetkabirzisan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rubayetkabirzisan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rubayetkabirzisan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> 
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
