@@ -49,17 +49,22 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubayetkabirzisan&theme=tokyonight" alt="GitHub Stats" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubayetkabirzisan&theme=tokyonight" alt="Languages" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubayetkabirzisan&theme=tokyonight" alt="Commit Languages" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubayetkabirzisan&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubayetkabirzisan&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubayetkabirzisan&theme=tokyonight" alt="Most Commits Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&bg_color=1a1b26&color=a855f7&line=a855f7&point=ff9e64&area=true&hide_border=true&border_radius=10" alt="hemel2002's contribution graph" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetkabirzisan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=tokyonight&ext=activity" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&bg_color=1a1b26&color=a855f7&line=a855f7&point=ff9e64&area=true&hide_border=true&border_radius=10" alt="rubayetkabirzisan's contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
