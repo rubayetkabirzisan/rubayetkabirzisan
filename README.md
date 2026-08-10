@@ -48,21 +48,20 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 
 ## 📈 GitHub Activity
 
-<div align="center">
-  
-  <img width="98%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-profile-summary.svg" alt="Rubaet's GitHub profile summary" />
-  
-  <br><br>
-  
-  <img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-stats.svg" alt="Rubaet's GitHub stats" /><img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-languages.svg" alt="Languages by repository" /><img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-commit-languages.svg" alt="Languages by commits" />
-  
-  <br><br>
-  
-  <img width="49%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-streak.svg" alt="Rubaet's GitHub contribution streak" /><img width="49%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-activity.svg" alt="Rubaet's GitHub contribution graph" />
-  
-  <br><br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubayetkabirzisan&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubayetkabirzisan&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubayetkabirzisan&theme=tokyonight" alt="Most Commits Language" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetkabirzisan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://leetcard.jacoblin.cool/rubayetkabirzisan?theme=tokyonight&ext=activity" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&bg_color=1a1b26&color=a855f7&line=a855f7&point=ff9e64&area=true&hide_border=true&border_radius=10" alt="rubayetkabirzisan's contribution graph" width="100%" />
+</p>
 
 ---
 
