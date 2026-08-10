@@ -49,20 +49,17 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 ## 📈 GitHub Activity
 
 <div align="center">
-
+  
   <img width="98%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-profile-summary.svg" alt="Rubaet's GitHub profile summary" />
-
-  <br>
-
-  <img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-stats.svg" alt="Rubaet's GitHub stats" />
-  <img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-languages.svg" alt="Languages by repository" />
-  <img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-commit-languages.svg" alt="Languages by commits" />
-
+  
   <br><br>
-
-  <img width="49%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-streak.svg" alt="Rubaet's GitHub contribution streak" />
-  <img width="49%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-activity.svg" alt="Rubaet's GitHub contribution graph" />
-
+  
+  <img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-stats.svg" alt="Rubaet's GitHub stats" /><img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-languages.svg" alt="Languages by repository" /><img width="32%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-commit-languages.svg" alt="Languages by commits" />
+  
+  <br><br>
+  
+  <img width="49%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-streak.svg" alt="Rubaet's GitHub contribution streak" /><img width="49%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-activity.svg" alt="Rubaet's GitHub contribution graph" />
+  
   <br><br>
 
 </div>
