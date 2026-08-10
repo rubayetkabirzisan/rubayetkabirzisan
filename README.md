@@ -56,7 +56,6 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetkabirzisan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://leetcard.jacoblin.cool/rubayetkabirzisan?theme=tokyonight&ext=activity" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
