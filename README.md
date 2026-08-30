@@ -61,6 +61,7 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&bg_color=1a1b26&color=a855f7&line=a855f7&point=ff9e64&area=true&hide_border=true&border_radius=10" alt="rubayetkabirzisan's contribution graph" width="100%" />
 </p>
+<img width="98%" src="https://raw.githubusercontent.com/rubayetkabirzisan/rubayetkabirzisan/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" />
 
 ---
 
