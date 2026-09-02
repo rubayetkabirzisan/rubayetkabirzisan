@@ -54,7 +54,7 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubayetkabirzisan&theme=tokyonight" alt="Most Commits Language" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rubayetkabirzisan&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://ryo-ma.github.io/github-profile-trophy/trophies/trophy.svg?username=rubayetkabirzisan&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetkabirzisan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
