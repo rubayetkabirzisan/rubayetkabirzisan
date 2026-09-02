@@ -53,11 +53,12 @@ Breaking software on purpose, so it doesn't break in production. **MIST CS** gra
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubayetkabirzisan&theme=tokyonight" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubayetkabirzisan&theme=tokyonight" alt="Most Commits Language" />
 </p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rubayetkabirzisan&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubayetkabirzisan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rubayetkabirzisan&bg_color=1a1b26&color=a855f7&line=a855f7&point=ff9e64&area=true&hide_border=true&border_radius=10" alt="rubayetkabirzisan's contribution graph" width="100%" />
 </p>
