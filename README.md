@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-Breaking software on purpose, so it doesn't break in production. **MIST CS** grad and **ex-Aurify SWE intern** with hands-on experience in Playwright and test automation.
+Breaking software on purpose, so it doesn't break in production. **MIST CS** grad and **ex-Aurify SWE intern** with hands on experience in Playwright and test automation.
 
 - 🎓 Thesis defended: **Identification and Translation of Transliterated Chakma Text into Bangla**
 - 📄 IEEE published author — co-author on 2 peer-reviewed papers in computer science
